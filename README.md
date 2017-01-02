@@ -6,7 +6,7 @@ Provide a web based platform for tracking product price points on the Amazon mar
 - One to view the current state of all of your products
 - One to view a historic plot of product pricing
 
-## System Components
+### System Components
 - [x] Python Script         : Scraping Amazon for prices 
 - [x] Raspberry PI(num.1)   : Web Server
 - [x] Raspberry Pi(num.2)   : MySQL Database
