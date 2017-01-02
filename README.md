@@ -11,3 +11,6 @@ Provide a web based platform for tracking product price points on the Amazon mar
 - [x] Raspberry PI(num.1)   : Web Server
 - [x] Raspberry Pi(num.2)   : MySQL Database
 - [x] Node.js + Express     : Web Server Script
+
+### Screen-Shots
+![Alt text](/relative/path/to/img.jpg?raw=true "Submit Page")
