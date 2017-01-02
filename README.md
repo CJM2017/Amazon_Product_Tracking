@@ -7,8 +7,7 @@ Provide a web based platform for tracking product price points on the Amazon mar
 - One to view a historic plot of product pricing
 
 ## System Components
-- [ ] 4 Arduinos w/Xbees  : Indoor Localization 
-- [ ] 1 Arduino w/XBee    : Vehicle control and sampled RSSI vector
-- [ ] 1 RPI w/XBee        : Receive and stor data in SQL and host webpage ???
-- [ ] Off-Network PC      : Demonstrate the system
-- [ ] 1 Webcam            : FPV streaming and control from the UI
+- [x] Python Script         : Scraping Amazon for prices 
+- [x] Raspberry PI(num.1)   : Web Server
+- [x] Raspberry Pi(num.2)   : MySQL Database
+- [x] Node.js + Express     : Web Server Script
