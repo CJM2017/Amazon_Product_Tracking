@@ -1,0 +1,68 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6, {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+a {
+  color: #00B7FF;
+}
+
+button[id^='delete_button_'] { 
+    background-color : #D9CDCD;
+    color : #ED2424;
+}
+
+#Submit {
+    background-color : #3CCE57;
+}
+
+#URL_Form {
+    position: relative;
+    left: 0%;
+    top: 0%;
+}
+
+.main {
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+.main_analytics {
+    height: 90%;
+    padding-top: 80px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.main_submit {
+    width: 99%;
+    height: 90%;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+#product_div {
+    padding-top: 50px;
+}
+
+.footer {
+    padding-top: 20px;
+    height: 10%;
+    background-color:   #e6e6e6;
+}
+
+#copyright {
+    color :   #262626;
+}

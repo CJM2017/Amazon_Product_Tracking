@@ -1,0 +1,35 @@
+<!-- views/partials/header.ejs used template from https://scotch.io/tutorials/use-ejs-to-template-your-node-application-->
+
+<nav id ="navbar_top" class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div id ="webpage_div" class="container-fluid">
+
+        <div class="navbar-header">
+            <a id ="webpage_name" class="navbar-brand" href="#"> <!--scrolls to the top of the page instead of an element ID-->
+                <span class="glyphicon glyphicon glyphicon glyphicon-stats"></span>
+                Amazon Product Tracking
+            </a>
+        </div>
+
+        <ul class="nav navbar-nav">
+            <li><a id ="submit_id" href="/">Submit</a></li>
+            <li><a id ="products_id" href="/products">Products</a></li>
+            <li><a id = "analytics_id" href ="/analytics">Analytics</a></li>
+        </ul>
+
+        <form class="navbar-form navbar-left">
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="Search">
+                <div class="input-group-btn">
+                    <button class="btn btn-default" type="submit">
+                        <i class="glyphicon glyphicon-search"></i>
+                    </button>
+                </div>
+            </div>
+        </form>
+
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="https://www.amazon.com/ref=nav_logo" target ="_blank"><span class="glyphicon glyphicon-cloud"></span>Amazon Home Page</a></li>
+        </ul>
+      
+    </div>
+</nav>

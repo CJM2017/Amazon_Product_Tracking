@@ -1,0 +1,60 @@
+<!-- views/submit.ejs -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <% include partials/head %>
+</head>
+
+<body>
+
+    <header>
+        <% include partials/header %>
+    </header>
+
+    <main class = "main_submit">
+
+        <form id = 'URL_Form' class="form-horizontal">
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="text">Product URL:</label>
+                <div class="col-sm-5">          
+                    <input id="Product" type="text" class="form-control" placeholder="Paste URL">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="text">Price Point:</label>
+                <div class="col-sm-2">          
+                    <input id="price_point" type="text" class="form-control" placeholder="$US Dollars">
+                </div>
+            </div>
+
+            <div class="form-group" id = "radio_group">
+                <label class="control-label col-sm-2" for="text">Receive Mobile Updates:</label>
+
+                <label class="radio-inline">
+                    <input type="radio" class ="toggle" name="optradio" value = "1" id = "radio_yes">Yes
+                </label>
+
+                <label class="radio-inline">
+                    <input type="radio" class ="toggle" name="optradio" value ="0" id ="radio_no">No
+                </label>
+            </div>
+
+            <div class="form-group">        
+                <div class="col-sm-offset-2 col-sm-1">
+                    <button id ="Submit" type="submit" value="send" class="btn btn-info">Submit</button>
+                </div>
+            </div>
+        </form>
+
+    </main>
+
+    <footer class = "footer">
+        <% include partials/footer %>
+    </footer>
+
+</body>
+<script type ="text/javascript" src="./javascripts/submit.js"></script>
+</html>      
