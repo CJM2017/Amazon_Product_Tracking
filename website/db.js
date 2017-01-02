@@ -17,7 +17,7 @@ exports.connect = function(mode, done) {
   state.pool = mysql.createPool({
     host: 'cloud9.myftp.biz',
     user: 'owncloud',
-    password: '@BuEcE2017',
+    password: '***',
     database: mode === exports.MODE_PRODUCTION ? PRODUCTION_DB : TEST_DB
   });
 
