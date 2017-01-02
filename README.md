@@ -13,4 +13,4 @@ Provide a web based platform for tracking product price points on the Amazon mar
 - [x] Node.js + Express     : Web Server Script
 
 ### Screen-Shots
-![Alt text](/relative/path/to/img.jpg?raw=true "Submit Page")
+![Alt text](./website/screen_shots/APT_Submit.png?raw=true "Submit Page")
