@@ -1,4 +1,6 @@
 # Amazon Product Tracker 
+------------------------
+
 ### Purpose
 -----------
 Provide a web based platform for tracking product price points on the **Amazon market**. The front end is written with *node.js* and uses the *express* framework to handle routing client requests. As of now, I provide three views: 
