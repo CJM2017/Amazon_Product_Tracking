@@ -1,6 +1,7 @@
 // Original DB configuration based off https://www.terlici.com/2015/08/13/mysql-node-express.html
 var mysql = require('mysql'),
     async = require('async');
+var db_data = require('../../mysql_config.json');
 
 var PRODUCTION_DB = 'Web_Scraping',
     TEST_DB = 'Web_Scraping';
@@ -15,9 +16,9 @@ var state = {
 
 exports.connect = function(mode, done) {
   state.pool = mysql.createPool({
-    host: 'cloud9.myftp.biz',
-    user: 'owncloud',
-    password: '***',
+    host: db_data["host"],
+    user: db_data["user"],
+    password: db_data["pwd"],
     database: mode === exports.MODE_PRODUCTION ? PRODUCTION_DB : TEST_DB
   });
 
@@ -32,7 +33,6 @@ exports.get = function() {
 exports.fixtures = function(data) {
   var pool = state.pool;
   if (!pool) return done(new Error('Missing database connection.'));
-
   var names = Object.keys(data.tables);
   async.each(names, function(name, cb) {
     async.each(data.tables[name], function(row, cb) {
