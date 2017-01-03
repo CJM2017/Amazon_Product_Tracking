@@ -221,6 +221,16 @@ if __name__ == "__main__":
                 print(ouput)
                 previousRemaining = remaining
 
+"""
+    notes 01/02/17:
+
+        Try and come up with the best way to handle all of the different locations that 
+        the product prices may be contained on the page because each one has been in 
+        different locations and also with different ID tags depending on the state of
+        the sale etc. 
+        
+"""
+
 
 
 
