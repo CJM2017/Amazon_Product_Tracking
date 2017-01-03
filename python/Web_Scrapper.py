@@ -29,8 +29,8 @@ pymysql.install_as_MySQLdb()
 import MySQLdb
 
 
-def makeDatabase():
-    db = MySQLdb.connect(host ='cloud9.myftp.biz', port = 3306, user ='owncloud', passwd ='***',db = 'Web_Scraping') 
+def makeDatabase(db_data):
+    db = MySQLdb.connect(host = db_data["host"], port = db_data["port"], user = db_data["user"], passwd = db_data["pwd"],db = db_data["db"]) 
     cursor = db.cursor()
     sqlcmd = """CREATE TABLE IF NOT EXISTS Products(ID int NOT NULL AUTO_INCREMENT,Primary KEY (ID), Code varchar(50), Name varchar(50), Original_Price float(2), Sale_Price float(2), Availability int, InsertionTime varchar(50))"""
     try:
@@ -45,7 +45,6 @@ def makeDatabase():
 def buildCommand(data):
     cmd = "INSERT INTO Products(Code, Name, Original_Price, Sale_Price, Availability, InsertionTime) VALUES"
     for key in data:
-
         # convert the price to a type float to check if it is in fact a viable number
         # be careful of $ and ,
         if (key.__eq__('ORIGINAL_PRICE') or key.__eq__('SALE_PRICE')):
@@ -75,26 +74,22 @@ def buildCommand(data):
     return cmd
 
 
-def insertMySQL(sqlcmd):
-    db = MySQLdb.connect(host ='cloud9.myftp.biz', port = 3306, user ='owncloud', passwd ='***',db = 'Web_Scraping') 
+def insertMySQL(db_data, sqlcmd):
+    db = MySQLdb.connect(host = db_data["host"], port = db_data["port"], user = db_data["user"], passwd = db_data["pwd"],db = db_data["db"]) 
     cursor = db.cursor()
-
     try:
         cursor.execute(sqlcmd)
         db.commit()
-
     except Exception as e:
         print('Error with SQL Insertion')
         print(e)
         db.rollback()
-
     db.close()
 
-def getAsins():
-    db = MySQLdb.connect(host ='cloud9.myftp.biz', port = 3306, user ='owncloud', passwd ='***', db = 'Web_Scraping') 
+def getAsins(db_data):
+    db = MySQLdb.connect(host = db_data["host"], port = db_data["port"], user = db_data["user"], passwd = db_data["pwd"],db = db_data["db"]) 
     cursor = db.cursor()
     sqlcmd = 'SELECT * FROM ASIN;'
-
     try:
         cursor.execute(sqlcmd)
         results = cursor.fetchall()
@@ -111,11 +106,7 @@ def getAsins():
         print('Error with SQL Query')
         print(e)
         return AsinList
-
     db.close()
-
-def queryMySQL(field):
-    pass
 
 
 def sendText(phone):
@@ -183,8 +174,8 @@ def AmzonParser(url,ASIN):
             print (e) # used for debugging problems
 
 
-def ReadAsin(saveJson):
-    AsinList = getAsins()
+def ReadAsin(db_data, saveJson):
+    AsinList = getAsins(db_data)
     extracted_data = []
 
     for ASIN in AsinList:
@@ -200,18 +191,24 @@ def ReadAsin(saveJson):
     else:
         for prod in extracted_data:
             sqlcmd = buildCommand(prod)
-            insertMySQL(sqlcmd)
+            insertMySQL(db_data, sqlcmd)
+
+def configDatabase():
+    with open('../../mysql_config.json') as json_data:
+        db_data = json.load(json_data);
+    return db_data
 
 
 if __name__ == "__main__":
     
     saveJson = False
     delay = 300    # seconds -> 5 minutes
-    makeDatabase()
+    config = configDatabase()
+    makeDatabase(config)
 
     while(True):
         start = clk()
-        ReadAsin(saveJson)
+        ReadAsin(config, saveJson)
         elapsed = clk()-start
         previousRemaining = 0
 
