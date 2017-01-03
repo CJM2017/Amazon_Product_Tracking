@@ -14,5 +14,7 @@ Provide a web based platform for tracking product price points on the Amazon mar
 
 ### Screen-Shots
 ![Alt text](./website/screen_shots/APT_Submit.png?raw=true "Submit Page")
+
 ![Alt text](./website/screen_shots/APT_Products.png?raw=true "Submit Page")
+
 ![Alt text](./website/screen_shots/APT_Analysis.png?raw=true "Submit Page")
