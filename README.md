@@ -1,4 +1,5 @@
-# Amazon Product Tracker #### - @Copyright 2016 Connor Mccann
+# Amazon Product Tracker 
+#### - @Copyright 2016 Connor Mccann
 
 ### Purpose
 -----------
