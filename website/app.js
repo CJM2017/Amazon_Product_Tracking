@@ -19,7 +19,6 @@
         * npm install ejs
         * npm install morgan
         * npm install body-parser
-        * npm install async
 */
 var express = require('express');
 var app = express();
