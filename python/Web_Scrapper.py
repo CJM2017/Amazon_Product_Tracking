@@ -142,7 +142,7 @@ def AmzonParser(url,ASIN):
             ORIGINAL_PRICE = ''.join(RAW_ORIGINAL_PRICE).strip() if RAW_ORIGINAL_PRICE else None
             AVAILABILITY = ''.join(RAw_AVAILABILITY).strip() if RAw_AVAILABILITY else None
 
-            # deal with empty values of the above data
+            # first attempt to deal with empty values of the above data
             if ORIGINAL_PRICE is None or ORIGINAL_PRICE is "":
                 print("trying the span for the price")
                 XPATH_ORIGINAL_PRICE = '//span[contains(@id,"priceblock_ourprice")]//text()'
@@ -151,8 +151,8 @@ def AmzonParser(url,ASIN):
                 print(str(ORIGINAL_PRICE))
 
             # set the original price to the sale price if it is empty
-            # not ORIGINAL_PRICE:
-                #ORIGINAL_PRICE = SALE_PRICE
+            if ORIGINAL_PRICE is None or ORIGINAL_PRICE is "":
+                ORIGINAL_PRICE = SALE_PRICE
 
             if page.status_code!=200:
                 raise ValueError('captha')
@@ -230,7 +230,3 @@ if __name__ == "__main__":
         the sale etc. 
         
 """
-
-
-
-
