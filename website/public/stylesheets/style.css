@@ -34,9 +34,19 @@ button[id^='delete_button_'] {
     top: 0%;
 }
 
-.main {
+.main_submit {
+    width: 99%;
+    height: 90%;
     padding-top: 80px;
     padding-bottom: 20px;
+}
+
+.main_products {
+    width: 100%;
+    padding-top: 80px;
+    padding-bottom: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
 }
 
 .main_analytics {
@@ -46,15 +56,10 @@ button[id^='delete_button_'] {
     padding-left: 20px;
 }
 
-.main_submit {
-    width: 99%;
-    height: 90%;
-    padding-top: 80px;
-    padding-bottom: 20px;
-}
-
 #product_div {
     padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .footer {
