@@ -145,7 +145,7 @@ def AmzonParser(url,ASIN):
             ORIGINAL_PRICE = ''.join(RAW_ORIGINAL_PRICE).strip() if RAW_ORIGINAL_PRICE else None
             AVAILABILITY = ''.join(RAw_AVAILABILITY).strip() if RAw_AVAILABILITY else None
 
-            # deal with empty values of the above data
+            # first attempt to deal with empty values of the above data
             if ORIGINAL_PRICE is None or ORIGINAL_PRICE is "":
                 print("trying the span for the price")
                 XPATH_ORIGINAL_PRICE = '//span[contains(@id,"priceblock_ourprice")]//text()'
@@ -154,8 +154,8 @@ def AmzonParser(url,ASIN):
                 print(str(ORIGINAL_PRICE))
 
             # set the original price to the sale price if it is empty
-            # not ORIGINAL_PRICE:
-                #ORIGINAL_PRICE = SALE_PRICE
+            if ORIGINAL_PRICE is None or ORIGINAL_PRICE is "":
+                ORIGINAL_PRICE = SALE_PRICE
 
             if page.status_code!=200:
                 raise ValueError('captha')
@@ -223,3 +223,13 @@ if __name__ == "__main__":
                 ouput = "The program will run again in {0} minutes".format(remaining)
                 print(ouput)
                 previousRemaining = remaining
+                
+"""
+    notes 01/02/17:
+
+        Try and come up with the best way to handle all of the different locations that 
+        the product prices may be contained on the page because each one has been in 
+        different locations and also with different ID tags depending on the state of
+        the sale etc. 
+        
+"""
