@@ -59,18 +59,21 @@ def buildCommand(data):
 
         # look for the number of available products in the string 
         elif (key.__eq__('AVAILABILITY')):
-            data[key] = re.findall(r'\b\d+\b',data[key])
-            if (len(data[key]) is 0):
-                data[key] = '20' # enough not to include a value
+            if (data[key] != None):
+                data[key] = re.findall(r'\b\d+\b',data[key])
+                if (len(data[key]) is 0):
+                    data[key] = '20' # enough not to include a value
+                else:
+                    data[key] = data[key][0] # the first number it might come accross (not always working)
             else:
-                data[key] = data[key][0] # the first number it might come accross (not always working)
-
+                data[key] = '20'
         # remove " in strings which cause SQl insertion errors
         elif (key.__eq__('NAME')):
             data[key] = data[key].replace('"',' ')
 
     vals = "(",'"'+data['CODE']+'"'+",",'"'+data['NAME']+'"'+",",data['ORIGINAL_PRICE']+",",data['SALE_PRICE']+",",data['AVAILABILITY']+",","'"+data['Today']+"'"+")"
     cmd += "".join(vals)
+
     return cmd
 
 
@@ -220,7 +223,7 @@ if __name__ == "__main__":
                 ouput = "The program will run again in {0} minutes".format(remaining)
                 print(ouput)
                 previousRemaining = remaining
-
+                
 """
     notes 01/02/17:
 
