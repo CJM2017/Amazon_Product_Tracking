@@ -1,4 +1,4 @@
-#!/Users/connormccann/anaconda/bin/python3.5
+#!/usr/bin/python
 """
     Program     : Amazon Scrapper
     Author      : Connor McCann
@@ -197,7 +197,7 @@ def ReadAsin(db_data, saveJson):
             insertMySQL(db_data, sqlcmd)
 
 def configDatabase():
-    with open('../../mysql_config.json') as json_data:
+    with open('/home/pi/js_code/mysql_config.json') as json_data:
         db_data = json.load(json_data);
     return db_data
 
@@ -205,7 +205,7 @@ def configDatabase():
 if __name__ == "__main__":
     
     saveJson = False
-    delay = 300    # seconds -> 5 minutes
+    delay = 1800    # seconds -> 30 minutes
     config = configDatabase()
     makeDatabase(config)
 
@@ -231,5 +231,7 @@ if __name__ == "__main__":
         the product prices may be contained on the page because each one has been in 
         different locations and also with different ID tags depending on the state of
         the sale etc. 
-        
+
+    #!/Users/connormccann/anaconda/bin/python3.5
+     
 """
