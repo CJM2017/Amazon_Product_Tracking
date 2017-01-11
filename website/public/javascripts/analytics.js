@@ -8,6 +8,7 @@ $(document).ready(function () {
     $.get('/get_product_names',function(data) {
         var dropdown = $("#dropdown_list");
         for (var i in data) {
+          console.log(data[i]);
             var li = document.createElement('li');
             var a = document.createElement('a');
             a.setAttribute('href','#');

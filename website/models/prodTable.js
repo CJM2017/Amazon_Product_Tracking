@@ -28,7 +28,7 @@ exports.insertData = function (asin, price_point, text_response, done) {
 
 // Query from Products table 
 exports.getAllMostRecent = function (done) {
-    db.get().query('SELECT * FROM Products WHERE ID > (SELECT max(ID)-(SELECT count(DISTINCT NAME) FROM Products) FROM Products)', function (err, rows) {
+    db.get().query('SELECT * FROM Products WHERE ID > (SELECT max(ID)-(SELECT count(DISTINCT Code) FROM Products) FROM Products)', function (err, rows) {
         if (err) return done(err);
         done(null, rows);
     });
@@ -60,7 +60,7 @@ exports.getAllPrices = function (name, done) {
 
 // Query to get all of the possible product names for the analytics drop down menu----------------------
 exports.getAllNames = function (done) {
-    db.get().query('SELECT DISTINCT Name FROM Products', function (err,rows) {
+    db.get().query('SELECT Name FROM Products WHERE ID > (SELECT max(ID)-(SELECT count(DISTINCT Code) FROM Products) FROM Products)', function (err,rows) {
         if (err) return done(err);
         done(null,rows);
     });
