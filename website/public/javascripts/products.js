@@ -60,14 +60,15 @@ $(document).ready(function () {
                     link.appendChild(a);
                     del.appendChild(b);
 
-                    console.log(b);
-
                     tr.appendChild(name);
                     tr.appendChild(originalPrice);
                     tr.appendChild(targetPrice);
                     tr.appendChild(avail);
                     tr.appendChild(link);
                     tr.appendChild(del);
+
+                    // set the id of the row to the name of the prod
+                    tr.setAttribute('id',text1);
 
                     // append the row to the table and move on to the next bit of data
                     tbody.append(tr);
@@ -112,6 +113,24 @@ $(document).ready(function () {
                 }); // end get_prodcut_data
 
         }); // end get_price_point
+        
+        // enable the function scroll of the search button
+        var w = $(window);
+        var search_bttn = $("#search_bttn");
+        var search_txt = $("#search_input");
+
+        search_bttn.on('click',function() {
+            var prod = search_txt.val();
+            console.log(prod);
+            var search_term = 'tr[id^='+String(prod)+']';
+            console.log(search_term);
+            var row = $('#prod_table').find('tr').removeClass('active').eq( +search_term ).addClass('active');
+
+            if (row.length) {
+                $('html,body').animate({scrollTop: row.offset().top - (w.height()/2)}, 1000 );
+            }
+            search_txt.val('');
+        });
 
     } // end the create table function brace
 
