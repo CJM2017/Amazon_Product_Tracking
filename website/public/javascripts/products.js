@@ -115,21 +115,18 @@ $(document).ready(function () {
         }); // end get_price_point
         
         // enable the function scroll of the search button
-        var w = $(window);
-        var search_bttn = $("#search_bttn");
         var search_txt = $("#search_input");
 
-        search_bttn.on('click',function() {
-            var prod = search_txt.val();
-            console.log(prod);
-            var search_term = 'tr[id^='+String(prod)+']';
-            console.log(search_term);
-            var row = $('#prod_table').find('tr').removeClass('active').eq( +search_term ).addClass('active');
+        search_txt.keyup(function() {
+            var value = this.value;
+            value = value.toLowerCase();
 
-            if (row.length) {
-                $('html,body').animate({scrollTop: row.offset().top - (w.height()/2)}, 1000 );
-            }
-            search_txt.val('');
+            $("#prod_table").find("tr").each(function(index) {
+                if (index === 0) return;
+                var id = $(this).find("td").first().text();
+                id = id.toLowerCase();
+                $(this).toggle(id.indexOf(value) !== -1);
+            });
         });
 
     } // end the create table function brace
