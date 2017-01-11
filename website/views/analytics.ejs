@@ -2,19 +2,14 @@
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
    <% include partials/head %>
 </head>
-
 <body>
-
     <header>
         <% include partials/header %>
     </header>
-
     <main class = "main_analytics">
-
         <div id = "dropdown_div" class="dropdown">
             <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Select Product
             <span class="caret"></span></button>
@@ -22,20 +17,14 @@
                 <!-- all of the names will be created with analytics.js -->
             </ul>
         </div> 
-        
         <div id ="product_div">
             <div id ="product_plot"></div>
         </div>
-
     </main>
-
     <footer class = "footer">
         <% include partials/footer %>
     </footer>
-
 </body>
-
 <script type ="text/javascript" src="./javascripts/analytics.js"></script>
 <script type="text/javascript" src="./javascripts/canvasjs.min.js"></script>
-
 </html>      

@@ -15,7 +15,7 @@ $(document).ready(function () {
         // find the product asin code
         var ASIN = "";
         for (var i = 0; i < parsed.length; i++) {
-            if ( parsed[i] == "dp") {
+            if (parsed[i] == "dp") {
                 ASIN = parsed[i+1];
                 break;
             }

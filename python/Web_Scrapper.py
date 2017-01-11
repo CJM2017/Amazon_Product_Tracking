@@ -1,20 +1,19 @@
 #!/usr/bin/python
-"""
-    Program     : Amazon Scrapper
-    Author      : Connor McCann
-    Date        : 15 Dec. 2016
+#    Program     : Amazon Scrapper
+#    Author      : Connor McCann
+#    Date        : 15 Dec. 2016
+#
+#    Purpose - 
+#
+#       To scrape the amazon market place looking for items which are
+#       considered to be on sale and then make approved purchases to be
+#       sent to a predetermined location. Libraries included in Anaconda.
+#
+#    Installs:
+#        
+#        * using latest anaconda dependencies
+#        * pip install pymysql
 
-    Purpose - 
-
-        To scrape the amazon market place looking for items which are
-        considered to be on sale and then make approved purchases to be
-        sent to a predetermined location. Libraries included in Anaconda.
-
-    Installs:
-        
-        * using latest anaconda dependencies
-        * pip install pymysql
-"""
 import os
 import re
 import csv
