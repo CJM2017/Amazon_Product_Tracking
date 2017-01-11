@@ -82,6 +82,7 @@ def insertMySQL(db_data, sqlcmd):
     try:
         cursor.execute(sqlcmd)
         db.commit()
+	print("insertion was a success")
     except Exception as e:
         print('Error with SQL Insertion')
         print(e)
@@ -203,8 +204,8 @@ def configDatabase():
 
 if __name__ == "__main__":
     
+    print(dt.datetime.today())
     saveJson = False
-    delay = 1800    # seconds -> 30 minutes
     config = configDatabase()
     makeDatabase(config)
     ReadAsin(config, saveJson)
