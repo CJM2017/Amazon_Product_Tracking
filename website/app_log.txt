@@ -1,0 +1,18 @@
+Listening on *:3000
+Error creating the ASIN Table
+[0mGET / [32m200 [0m73.650 ms - 3787[0m
+[0mGET /stylesheets/style.css [32m200 [0m30.519 ms - 964[0m
+[0mGET /javascripts/submit.js [32m200 [0m10.931 ms - 1860[0m
+[0mGET /favicon.ico [33m404 [0m17.398 ms - 24[0m
+[0mGET /products [32m200 [0m20.524 ms - 2781[0m
+[0mGET /stylesheets/style.css [36m304 [0m5.356 ms - -[0m
+[0mGET /javascripts/products.js [32m200 [0m9.058 ms - 6014[0m
+[0mGET /get_price_point [32m200 [0m137.546 ms - 658[0m
+[0mGET /get_product_data [32m200 [0m20.612 ms - 1923[0m
+[0mGET /analytics [32m200 [0m9.309 ms - 3338[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.399 ms - -[0m
+[0mGET /javascripts/analytics.js [32m200 [0m8.234 ms - 5794[0m
+[0mGET /javascripts/canvasjs.min.js [32m200 [0m10.330 ms - 293789[0m
+[0mGET /get_product_names [32m200 [0m13.251 ms - 570[0m
+[0mPOST /get_plot_Data [32m200 [0m164.684 ms - 9040[0m
+[0mPOST /get_plot_Data [32m200 [0m29.151 ms - 7339[0m

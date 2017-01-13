@@ -3,7 +3,7 @@ $(document).ready(function () {
     console.log("running the analytics ejs");
     var price_data = [];
     var product_name = "";
-
+   
     // ajax call to gather product info for dropdown
     $.get('/get_product_names',function(data) {
         var dropdown = $("#dropdown_list");
