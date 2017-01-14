@@ -2309,3 +2309,81 @@ insertion was a success
 insertion was a success
 insertion was a success
 insertion was a success
+2017-01-13 21:00:20.574385
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$40.99
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$16.06
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$599.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+$764.99
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.99
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+2017-01-13 22:00:01.726535
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$40.99
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$16.06
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$599.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+$764.99
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.99
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
