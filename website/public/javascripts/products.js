@@ -11,7 +11,7 @@ $(document).ready(function () {
             raw_asin = asin_data;
 
             // Query the db for all product data
-            $.get('/get_product_data',function(returned_data) {
+            $.get('/get_product_data', function(returned_data) {
                 // cool trick to get the ID for the tbody within the table tag !!
                 var tbody = $("#prod_table > tbody:last");
 
@@ -77,38 +77,42 @@ $(document).ready(function () {
                 // handle the delete buttons for each item with wildcard '[id^=delete_button_]'
                 // also this has to be within the ajax calls populating the tags in order to function 
                 $('[id^=delete_button_]').click(function(event) {
-                    var raw = event.target.id.split('_');
-                    var ASIN = String(raw[2]);
-                    console.log("a delete button has been clicked..." + ASIN);
+                    var confirm_delete = confirm("Delete Product?");
 
-                    var data = {};
-                    data.asin = ASIN;
+                    if (confirm_delete) {
+                        var raw = event.target.id.split('_');
+                        var ASIN = String(raw[2]);
+                        console.log("a delete button has been clicked..." + ASIN);
 
-                    // send the asin back to the server
-                    $.ajax({
-                            url: "/delete",
-                            type: "POST",
-                            dataType: "json",
-                            data: JSON.stringify(data),
-                            contentType: "application/json",
+                        var data = {};
+                        data.asin = ASIN;
 
-                            complete: function() {
-                              //called when complete
-                              console.log('process complete');
-                            },
-                            success: function() {
-                              console.log('process sucess');
-                            },
-                            error: function() {
-                              console.log('process error');
-                            },
-                        });
+                        // send the asin back to the server
+                        $.ajax({
+                                url: "/delete",
+                                type: "POST",
+                                dataType: "json",
+                                data: JSON.stringify(data),
+                                contentType: "application/json",
 
-                    // delete the row associated with the button 
-                    var R = event.target.parentNode.parentNode.rowIndex;
-                    document.getElementById("prod_table").deleteRow(R);
+                                complete: function() {
+                                  //called when complete
+                                  console.log('process complete');
+                                },
+                                success: function() {
+                                  console.log('process sucess');
+                                },
+                                error: function() {
+                                  console.log('process error');
+                                },
+                            }); // end ajax
 
-                    }); // end ajax
+                        // delete the row associated with the button 
+                        var R = event.target.parentNode.parentNode.rowIndex;
+                        document.getElementById("prod_table").deleteRow(R);
+                    }
+
+                    }); // end delete click method
 
                 }); // end get_prodcut_data
 
@@ -128,7 +132,7 @@ $(document).ready(function () {
                 id = id.toLowerCase();
                 $(this).toggle(id.indexOf(value) !== -1);
             });
-        });
+        }); // end search keyup
 
     } // end the create table function brace
 
