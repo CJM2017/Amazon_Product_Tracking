@@ -28,8 +28,19 @@ exports.insertData = function (asin, price_point, text_response, done) {
 
 // Query from Products table 
 exports.getAllMostRecent = function (done) {
-    db.get().query('SELECT * FROM Products WHERE ID > (SELECT max(ID)-(SELECT count(DISTINCT Code) FROM Products) FROM Products)', function (err, rows) {
-
+    db.get().query('SELECT u.Code'
+                        +',u.Name'
+                        +',u.Availability'
+                        +',u.Original_Price'
+                        +',q.InsertionTime '
+                    +'FROM Products AS u '
+                    +'INNER JOIN ('
+                        +'SELECT NAME '
+                              +',max(InsertionTime) AS InsertionTime '
+                        +'FROM Products '
+                        +'GROUP BY NAME) AS q '
+                    +'ON u.Name = q.Name '
++'AND u.InsertionTime = q.InsertionTime;', function (err, rows) {
         if (err) return done(err);
         done(null, rows);
     });
@@ -61,9 +72,17 @@ exports.getAllPrices = function (name, done) {
 
 // Query to get all of the possible product names for the analytics drop down menu----------------------
 exports.getAllNames = function (done) {
-    db.get().query('SELECT Name FROM Products WHERE ID > (SELECT max(ID)-(SELECT count(DISTINCT Code) FROM Products) FROM Products)', function (err,rows) {
+    db.get().query('SELECT u.Name '
+                    +'FROM Products AS u '
+                    +'INNER JOIN ('
+                        +'SELECT NAME '
+                              +',max(InsertionTime) AS InsertionTime '
+                        +'FROM Products '
+                        +'GROUP BY NAME) AS q '
+                    +'ON u.Name = q.Name '
++'AND u.InsertionTime = q.InsertionTime;', function (err, rows) {
         if (err) return done(err);
-        done(null,rows);
+        done(null, rows);
     });
 };
 
