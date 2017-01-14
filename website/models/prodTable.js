@@ -35,11 +35,11 @@ exports.getAllMostRecent = function (done) {
                         +',q.InsertionTime '
                     +'FROM Products AS u '
                     +'INNER JOIN ('
-                        +'SELECT NAME '
+                        +'SELECT Code '
                               +',max(InsertionTime) AS InsertionTime '
                         +'FROM Products '
-                        +'GROUP BY NAME) AS q '
-                    +'ON u.Name = q.Name '
+                        +'GROUP BY Code) AS q '
+                    +'ON u.Code = q.Code '
 +'AND u.InsertionTime = q.InsertionTime;', function (err, rows) {
         if (err) return done(err);
         done(null, rows);
@@ -75,11 +75,11 @@ exports.getAllNames = function (done) {
     db.get().query('SELECT u.Name '
                     +'FROM Products AS u '
                     +'INNER JOIN ('
-                        +'SELECT NAME '
+                        +'SELECT Code '
                               +',max(InsertionTime) AS InsertionTime '
                         +'FROM Products '
-                        +'GROUP BY NAME) AS q '
-                    +'ON u.Name = q.Name '
+                        +'GROUP BY Code) AS q '
+                    +'ON u.Code = q.Code '
 +'AND u.InsertionTime = q.InsertionTime;', function (err, rows) {
         if (err) return done(err);
         done(null, rows);
