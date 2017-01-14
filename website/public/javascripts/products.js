@@ -120,7 +120,8 @@ $(document).ready(function () {
         
         // enable the function scroll of the search button
         var search_txt = $("#search_input");
-	search_txt.attr('placeholder','Search');
+        search_txt.val('');
+	    search_txt.attr('placeholder','Search');
 
         search_txt.keyup(function() {
             var value = this.value;
