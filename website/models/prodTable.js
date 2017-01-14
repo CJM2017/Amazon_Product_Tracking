@@ -32,7 +32,7 @@ exports.getAllMostRecent = function (done) {
                         +',u.Name'
                         +',u.Availability'
                         +',u.Original_Price'
-                        +',q.InsertionTime '
+                        +',u.InsertionTime '
                     +'FROM Products AS u '
                     +'INNER JOIN ('
                         +'SELECT Code '
@@ -40,7 +40,8 @@ exports.getAllMostRecent = function (done) {
                         +'FROM Products '
                         +'GROUP BY Code) AS q '
                     +'ON u.Code = q.Code '
-+'AND u.InsertionTime = q.InsertionTime;', function (err, rows) {
+   	  	    +'AND u.InsertionTime = q.InsertionTime '
+	  	    +'ORDER BY Name;', function (err, rows) {
         if (err) return done(err);
         done(null, rows);
     });
@@ -72,7 +73,8 @@ exports.getAllPrices = function (name, done) {
 
 // Query to get all of the possible product names for the analytics drop down menu----------------------
 exports.getAllNames = function (done) {
-    db.get().query('SELECT u.Name '
+    db.get().query('SELECT u.Code'
+		    +',u.Name '
                     +'FROM Products AS u '
                     +'INNER JOIN ('
                         +'SELECT Code '
@@ -80,7 +82,8 @@ exports.getAllNames = function (done) {
                         +'FROM Products '
                         +'GROUP BY Code) AS q '
                     +'ON u.Code = q.Code '
-+'AND u.InsertionTime = q.InsertionTime;', function (err, rows) {
+		    +'AND u.InsertionTime = q.InsertionTime '
+		    +'ORDER BY Name;', function (err, rows) {
         if (err) return done(err);
         done(null, rows);
     });

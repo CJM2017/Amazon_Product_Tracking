@@ -335,3 +335,42 @@ Error creating the ASIN Table
 [0mGET / [36m304 [0m4.523 ms - -[0m
 [0mGET /stylesheets/style.css [36m304 [0m5.015 ms - -[0m
 [0mGET /javascripts/submit.js [36m304 [0m2.249 ms - -[0m
+Listening on *:3000
+Error creating the ASIN Table
+[0mGET / [32m200 [0m85.103 ms - 3787[0m
+[0mGET /stylesheets/style.css [36m304 [0m17.006 ms - -[0m
+[0mGET /javascripts/submit.js [32m200 [0m20.949 ms - 1860[0m
+[0mGET /products [32m200 [0m19.083 ms - 2781[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.803 ms - -[0m
+[0mGET /javascripts/products.js [32m200 [0m11.048 ms - 6300[0m
+[0mGET /get_price_point [32m200 [0m181.172 ms - 593[0m
+[0mGET /get_product_data [32m200 [0m53.822 ms - 1460[0m
+[0mGET /analytics [32m200 [0m9.293 ms - 3338[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.057 ms - -[0m
+[0mGET /javascripts/analytics.js [32m200 [0m9.707 ms - 5794[0m
+[0mGET /javascripts/canvasjs.min.js [32m200 [0m14.491 ms - 293789[0m
+[0mGET /get_product_names [32m200 [0m41.645 ms - 688[0m
+[0mPOST /get_plot_Data [32m200 [0m140.350 ms - 7821[0m
+Listening on *:3000
+Error creating the ASIN Table
+[0mGET /analytics [36m304 [0m94.585 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m15.574 ms - -[0m
+[0mGET /javascripts/analytics.js [36m304 [0m7.525 ms - -[0m
+[0mGET /javascripts/canvasjs.min.js [36m304 [0m6.215 ms - -[0m
+[0mGET /get_product_names [32m200 [0m161.170 ms - 688[0m
+[0mGET /products [36m304 [0m19.008 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.183 ms - -[0m
+[0mGET /javascripts/products.js [36m304 [0m1.848 ms - -[0m
+[0mGET /get_price_point [36m304 [0m27.396 ms - -[0m
+[0mGET /get_product_data [32m200 [0m141.333 ms - 1460[0m
+[0mGET /analytics [36m304 [0m12.982 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.733 ms - -[0m
+[0mGET /javascripts/analytics.js [36m304 [0m7.527 ms - -[0m
+[0mGET /javascripts/canvasjs.min.js [36m304 [0m8.834 ms - -[0m
+[0mGET /get_product_names [36m304 [0m17.022 ms - -[0m
+[0mPOST /get_plot_Data [32m200 [0m152.654 ms - 7701[0m
+[0mGET /products [36m304 [0m12.368 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.018 ms - -[0m
+[0mGET /javascripts/products.js [36m304 [0m3.602 ms - -[0m
+[0mGET /get_price_point [36m304 [0m10.615 ms - -[0m
+[0mGET /get_product_data [36m304 [0m13.352 ms - -[0m
