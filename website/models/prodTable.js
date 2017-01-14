@@ -28,7 +28,8 @@ exports.insertData = function (asin, price_point, text_response, done) {
 
 // Query from Products table 
 exports.getAllMostRecent = function (done) {
-    db.get().query('SELECT * FROM Products WHERE ID >= (SELECT max(ID)-(SELECT count(DISTINCT Code) FROM Products) FROM Products)', function (err, rows) {
+    db.get().query('SELECT * FROM Products WHERE ID > (SELECT max(ID)-(SELECT count(DISTINCT Code) FROM Products) FROM Products)', function (err, rows) {
+
         if (err) return done(err);
         done(null, rows);
     });
