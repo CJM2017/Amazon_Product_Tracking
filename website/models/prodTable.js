@@ -36,7 +36,7 @@ exports.getAllMostRecent = function (done) {
                     +'FROM Products AS u '
                     +'INNER JOIN ('
                         +'SELECT Code '
-                              +',max(InsertionTime) AS InsertionTime '
+                        +',max(InsertionTime) AS InsertionTime '
                         +'FROM Products '
                         +'GROUP BY Code) AS q '
                     +'ON u.Code = q.Code '
@@ -65,7 +65,7 @@ exports.deleteFromProducts = function (asin, done) {
 
 // Query to get the (X,Y) data for analytics plot----------------
 exports.getAllPrices = function (name, done) {
-    db.get().query('SELECT Original_Price, InsertionTime FROM Products WHERE Name = ?', name, function (err,rows) {
+    db.get().query('SELECT Original_Price, InsertionTime FROM Products WHERE Name = ? ORDER BY InsertionTime DESC', name, function (err,rows) {
         if (err) return done(err);
         done(null,rows);
     });
@@ -78,7 +78,7 @@ exports.getAllNames = function (done) {
                     +'FROM Products AS u '
                     +'INNER JOIN ('
                         +'SELECT Code '
-                              +',max(InsertionTime) AS InsertionTime '
+                        +',max(InsertionTime) AS InsertionTime '
                         +'FROM Products '
                         +'GROUP BY Code) AS q '
                     +'ON u.Code = q.Code '

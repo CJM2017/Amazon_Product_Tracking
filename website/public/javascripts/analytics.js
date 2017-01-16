@@ -26,6 +26,13 @@ $(document).ready(function () {
             var data = {};
             data.Name = product_name;
 
+            var minPrice = 1000000;
+            var maxPrice = 0;
+            var avgPrice = 0;
+            var currentPrice = 0;
+            var runSum = 0;
+            var numPts = 0;
+
             // send the asin back to the server
             $.ajax({
                     url: "get_plot_Data",
@@ -46,9 +53,29 @@ $(document).ready(function () {
                                 x : new Date(data[elem]['InsertionTime']),
                                 y : data[elem]['Original_Price']
                             });
+
+                            // get the current price
+                            currentPrice = data[0]['Original_Price'];
+
+                            // find the minimum price
+                            if (data[elem]['Original_Price'] < minPrice) {
+                              minPrice = data[elem]['Original_Price'];
+                            }
+
+                            // find the maximum price
+                            if(data[elem]['Original_Price'] > maxPrice) {
+                              maxPrice = data[elem]['Original_Price'];
+                            }
+
+                            // sum prices for the average calculation
+                            runSum += data[elem]['Original_Price'];
+                            numPts += 1;
                         }
                         // debug
                         console.log(price_data);
+
+                        // calculating the average
+                        avgPrice = runSum/numPts;
 
                         // creat the line plot to illustrate the product's price history
                         var chart = new CanvasJS.Chart("product_plot",
@@ -76,8 +103,54 @@ $(document).ready(function () {
                           ]
 
                         });
+
                         // render the chart for viewing
                         chart.render(); 
+                        
+                        $("#current_chart").empty();
+                        var current_chart = new JustGage({
+                          id: "current_chart",
+                          value: currentPrice.toFixed(2),
+                          min: 0,
+                          max: Math.ceil(maxPrice),
+                          title: "Current Price",
+                          levelColors: ["#ff4d4d","#ff4d4d","#ff4d4d"],
+                          gaugeWidthScale: 0.25,
+                          pointer: true,
+                          startAnimationTime: 5000,
+                          symbol: "$",
+                          decimals: 2
+                        });
+
+                        $("#avg_chart").empty();
+                        var avg_chart = new JustGage({
+                          id: "avg_chart",
+                          value: avgPrice,
+                          min: 0,
+                          max: Math.ceil(maxPrice),
+                          title: "Average Price",
+                          levelColors: ["#ff4d4d","#ff4d4d","#ff4d4d"],
+                          gaugeWidthScale: 0.25,
+                          pointer: true,
+                          symbol: "$",
+                          decimals: 2,
+                          startAnimationTime: 5000
+                        });
+
+                        $("#min_chart").empty();
+                        var min_chart = new JustGage({
+                          id: "min_chart",
+                          value: minPrice,
+                          min: 0,
+                          max: Math.ceil(maxPrice),
+                          title: "Minimum Price",
+                          levelColors: ["#ff4d4d","#ff4d4d","#ff4d4d"],
+                          gaugeWidthScale: 0.25,
+                          pointer: true,
+                          symbol: "$",
+                          decimals: 2,
+                          startAnimationTime: 5000
+                        });
 
                         // creates the calendar drop down for adjusting the 
                         // date range on the historical price data

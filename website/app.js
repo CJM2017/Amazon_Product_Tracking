@@ -200,13 +200,6 @@ app.get('/get_price_point', function(req, res) {
     });
 });
 
-/*  please make a note to truly understand javascript async call back 
-    functions and the ability to pass them as arguments as i am doing
-    above to successfully query data and handle errors with a SQL DB
-                                ASAP !!! 
-*/
-
 // --------- END DEFINE AJAX POST REQUESTS HERE --------- //
-
 
 module.exports = app;

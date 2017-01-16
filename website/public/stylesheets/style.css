@@ -49,17 +49,32 @@ button[id^='delete_button_'] {
     padding-right: 150px;
 }
 
-.main_analytics {
-    height: 90%;
-    padding-top: 80px;
+#main_analytics {
+    /*height: 90%;*/
+    padding-top: 100px;
     padding-bottom: 20px;
-    padding-left: 20px;
+    /*padding-left: 20px;*/
 }
 
-#product_div {
-    padding-top: 50px;
-    padding-left: 80px;
-    padding-right: 100px;
+#product_plot {
+    height: 450px;
+    width: 100%;
+}
+
+#chart_2, #chart_3 {
+    padding-top: 30px;
+    height: 250px;
+    width: 100%;
+}
+
+#top_bttn {
+    padding-left: 20%;
+    padding-bottom: 30px;
+}
+
+.guage {
+    height: 300px;
+    width: 300px;
 }
 
 .footer {
