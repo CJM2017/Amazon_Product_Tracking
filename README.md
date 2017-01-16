@@ -22,5 +22,9 @@ Provide a web based platform for tracking product price points on the **Amazon m
 --------------------------------------------------------------------------
 ![Alt text](./website/screen_shots/APT_Analysis.png?raw=true "Submit Page")
 --------------------------------------------------------------------------
+![Alt text](./website/screen_shots/APT_Analysis_2.png?raw=true "Submit Page")
+--------------------------------------------------------------------------
+![Alt text](./website/screen_shots/APT_Analysis_3.png?raw=true "Submit Page")
+--------------------------------------------------------------------------
 
 #### @Copyright 2016 Connor Mccann
