@@ -7618,3 +7618,1824 @@ insertion was a success
 insertion was a success
 insertion was a success
 insertion was a success
+2017-01-19 22:00:02.109787
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$599.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+$770.99
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+2017-01-19 23:00:02.001677
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$599.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+$770.99
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+2017-01-20 00:00:01.894705
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$599.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+$770.99
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+2017-01-20 01:00:01.801045
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$599.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+$770.99
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+2017-01-20 02:00:01.677514
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$599.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+$770.99
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+2017-01-20 03:00:02.569867
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$599.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+$770.99
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+2017-01-20 04:00:02.463209
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$599.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 05:00:02.312203
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$599.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 06:00:02.210056
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$599.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 07:00:01.600107
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$588.95
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 08:00:02.482387
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$588.95
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 09:00:02.381784
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$588.95
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 10:00:02.279361
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$588.95
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 11:00:02.171620
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$588.95
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 12:00:02.053300
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$588.95
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 13:00:01.902127
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$588.95
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 14:00:01.790859
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$588.95
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 15:00:01.705516
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$588.95
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 16:00:01.590314
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$588.95
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 17:00:02.474743
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$588.95
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 18:00:02.321578
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$588.95
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 19:00:02.203067
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$588.95
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 20:00:02.094911
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$588.95
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 21:00:01.980313
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$599.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 22:00:01.881779
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$599.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-20 23:00:01.790251
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 00:00:01.671977
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 01:00:02.555368
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 02:00:02.403456
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 03:00:02.294762
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 04:00:02.179778
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.44
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 05:00:02.065587
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 06:00:01.960350
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.44
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 07:00:01.961378
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 08:00:01.810674
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 09:00:01.706500
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 10:00:01.587125
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 11:00:02.476085
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.44
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 12:00:02.384777
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.44
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 13:00:02.221865
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 14:00:02.106194
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 15:00:02.004780
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 16:00:01.906983
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 17:00:01.785368
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.44
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 18:00:02.414697
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.44
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 19:00:01.766469
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.44
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
+2017-01-21 20:00:01.609503
+Processing: http://www.amazon.com/dp/B00OAJ412U
+trying the span for the price
+$98.00
+Processing: http://www.amazon.com/dp/B01FWI6F08
+trying the span for the price
+$686.59
+Processing: http://www.amazon.com/dp/B01C83BE6U
+trying the span for the price
+$1,099.00
+Processing: http://www.amazon.com/dp/B01CD5VC92
+trying the span for the price
+$39.98
+Processing: http://www.amazon.com/dp/B008GRTSV6
+trying the span for the price
+$19.95
+Processing: http://www.amazon.com/dp/B01HGNS59G
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B00VF0IXEY
+trying the span for the price
+$585.99
+Processing: http://www.amazon.com/dp/B01606KJ6C
+trying the span for the price
+None
+Processing: http://www.amazon.com/dp/B013E9L4ZS
+trying the span for the price
+$899.00
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+insertion was a success
+error with float()
+error with float()
+insertion was a success
+insertion was a success
