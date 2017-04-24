@@ -1,8 +1,8 @@
 # Amazon Product Tracker 
 To Run:
 ```
-    npm install 
-    node app.js
+    $ npm install 
+    $ node app.js
 ```
 
 ### Purpose
